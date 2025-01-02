@@ -1,4 +1,4 @@
-![Khalifa University Fitness Tracker - Sign In Page](assets/Sign In Page.png)
+![Khalifa University Fitness Tracker - Sign In Page](assets//Sign In Page.png)
 
 **Overview**
 
