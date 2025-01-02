@@ -1,4 +1,5 @@
-![Khalifa University Fitness Tracker - Sign In Page](assets//Sign In Page.png)
+![Khalifa University Fitness Tracker - Sign In Page](assets/Sign-In-Page.png)
+![Sign In Page](https://github.com/user-attachments/assets/c32f43c6-7512-473f-9f0f-de29abc36ffa)
 
 **Overview**
 
