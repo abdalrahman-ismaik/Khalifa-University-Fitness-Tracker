@@ -1,5 +1,4 @@
 ![Khalifa University Fitness Tracker - Sign In Page](assets/Sign-In-Page.png)
-![Sign In Page](https://github.com/user-attachments/assets/c32f43c6-7512-473f-9f0f-de29abc36ffa)
 
 **Overview**
 
@@ -24,5 +23,5 @@ Admins:
  - Java Swing/JavaFX: For building the GUI.
  - File I/O: For storing and retrieving data.
 
-![Khalifa University Fitness Tracker - Admin Activites & Goals Management Page](assets/Admin Activites & Goals Management Page.png)
-![Khalifa University Fitness Tracker - UML Class Diagram](assets/UML Class Diagram.png)
+![Khalifa University Fitness Tracker - Admin Activites & Goals Management Page](assets/Admin-Activites-&-Goals-Management-Page.png)
+![Khalifa University Fitness Tracker - UML Class Diagram](assets/UML-Class-Diagram.png)
