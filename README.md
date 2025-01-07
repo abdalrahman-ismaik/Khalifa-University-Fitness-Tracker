@@ -1,10 +1,10 @@
 ![Khalifa University Fitness Tracker - Sign In Page](assets/Sign-In-Page.png)
 
-**Overview**
+## **Overview**
 
 The Khalifa University Fitness Tracker is a Java-based application designed to help users track their fitness activities, set goals, and monitor progress. The app also allows administrators to manage user accounts and approve goals. It uses Object-Oriented Programming (OOP) principles and features a simple, user-friendly Graphical User Interface (GUI).
 
-**Features**
+## **Features**
 
 Users:
  - Create and manage accounts.
@@ -17,7 +17,7 @@ Admins:
  - Approve or reject fitness goals.
  - View and search user activity data.
 
-**Technologies Used**
+## **Technologies Used**
 
  - Java: Main programming language.
  - Java Swing/JavaFX: For building the GUI.
